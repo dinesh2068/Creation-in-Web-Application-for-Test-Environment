@@ -31,18 +31,6 @@ systemctl start httpd
 ```
 cd /var/www/html
 ```
-### test.php
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>MY FIRST PHP!</title>
-</head>
-</body>
-</html>
-
-```
 
 
 ## OUTPUT
